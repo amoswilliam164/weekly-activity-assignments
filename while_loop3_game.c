@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 		
 	}    
 	printf("Congratulation");
-	printf("\nThe Total number of Attempts is:%d", attempt);
+	printf("\nThe Total number of Attempts is:%d\n", attempt);
 		
 	
 	
