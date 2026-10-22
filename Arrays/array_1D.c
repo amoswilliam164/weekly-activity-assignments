@@ -3,7 +3,7 @@ Name   : Amos William
 Adm No : BCS-03-0076/2026
 Course : Computer Science
 Unit   : Structured Programming And Algorithms
-Program: Weekly Revenue Tracker
+Program: 1D Array - Weekly Revenue Tracker
 */
 
 #include <stdio.h>
