@@ -1,6 +1,13 @@
-// variable and data types
+/*
+Name   : Amos William
+Adm No : BCS-03-0076/2026
+Course : Computer Science
+Unit   : Structured Programming And Algorithms
+Program: Promptingthe user 
+*/
 
 #include <stdio.h>
+
 int main(int argc, char** argv)
 {
 	// declare variables
