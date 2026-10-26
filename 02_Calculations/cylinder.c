@@ -1,3 +1,11 @@
+/*
+Name   : Amos William
+Adm No : BCS-03-0076/2026
+Course : Computer Science
+Unit   : Structured Programming And Algorithms
+Program: To calculate Area and Volume of a Cylinder
+*/
+
 #include <stdio.h>
 #define PI 3.14
 
