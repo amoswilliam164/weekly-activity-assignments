@@ -1,6 +1,6 @@
 /*
 Name   : Amos William
-Adm No : BCS-02-0076/2026
+Adm No : BCS-03-0076/2026
 Course : Computer Science
 Program: Compound Interest=CI
 CI = Amount-Principal
