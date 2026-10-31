@@ -1,3 +1,11 @@
+/*
+Name   : Amos William
+Adm No : BCS-03-0076/2026
+Course : Computer Science
+Unit   : Structured Programming And Algorithms
+Program: C Files
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
