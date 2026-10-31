@@ -1,7 +1,10 @@
-/* program to compute discount
-amount>=10000 10% discount
-amount between 5000 , 100000 5% discount
-below 5000
+
+/*
+Name   : Amos William
+Adm No : BCS-03-0076/2026
+Course : Computer Science
+Unit   : Structured Programming And Algorithms
+Program: To compute discount
 */
 
 #include <stdio.h>
